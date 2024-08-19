@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/age-calculator.git
+   git clone https://github.com/debanshup/age-calculator
    cd age-calculator
 2. **Install Dependencies:**
     Make sure you have Node.js installed. Then run:
@@ -30,6 +30,7 @@ To run this project locally, follow these steps:
 3. **Start the Application:**
     ```bash
     npm start
+    
 ## Contributing
     Contributions are welcome! Please fork this repository and submit a pull request with your changes.
 ## License
