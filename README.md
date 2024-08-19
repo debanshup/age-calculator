@@ -4,7 +4,7 @@ This is a React-based Age Calculator application that calculates a person's age 
 
 ## Features
 
-- **Real-Time Age Calculation:** The application continuously updates the age every 100 milliseconds once the user enters their date of birth.
+- **Real-Time Age Calculation:** The application continuously updates the age every 1 ms once the user enters their date of birth.
 - **Responsive Design:** The interface is designed using Bootstrap, ensuring a responsive and user-friendly experience across different devices.
 - **Error Handling:** The application prompts the user to enter their date of birth if they attempt to calculate without input.
 
@@ -34,4 +34,4 @@ To run this project locally, follow these steps:
 ## Contributing
     Contributions are welcome! Please fork this repository and submit a pull request with your changes.
 ## License
-    This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details on the terms and conditions of the license.
+    This project is licensed under the MIT License. See the [LICENSE] file for details on the terms and conditions of the license.
