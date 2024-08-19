@@ -30,7 +30,7 @@ function App() {
 
   return (
     <>
-      <header className="bg- text-white p-3 mb-4 text-center">
+      <header className="bg-dark text-white p-3 mb-4 text-center">
         <h1 className="display-4">Age Calculator</h1>
       </header>
       <div className="container-sm">
@@ -55,6 +55,8 @@ function App() {
         {isEntered ? (
           <div className="container-sm d-flex flex-column align-items-center justify-content-center text-center mt-5">
             <p className="lead text-muted mb-4 line-gap">
+              <strong>Your current age is:</strong>
+              <br />
               <span className="fixed-width-3 display-6">{age[0]}</span> years
               <span className="fixed-width-3 display-6"> {age[1]} </span> months
               <span className="fixed-width-3 display-6"> {age[2]} </span> days
